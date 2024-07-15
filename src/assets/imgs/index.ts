@@ -1,1 +1,14 @@
 export { default as hero } from './hero.png';
+export { default as phone } from './phone.png';
+export { default as bici } from './c-bici.png';
+export { default as grupo2 } from './c-grupo-2.png';
+export { default as grupo } from './c-grupo.png';
+export { default as maparuta } from './c-mapa.jpeg';
+export { default as guia } from './guia.png';
+export { default as user1 } from './usuario-1.png';
+export { default as user2 } from './usuario-2.png';
+export { default as user3 } from './usuario-3.png';
+export { default as fauna1 } from './g-1.png';
+export { default as fauna2 } from './g-2.png';
+export { default as fauna3 } from './g-3.png';
+export { default as tienda } from './tienda.png';
